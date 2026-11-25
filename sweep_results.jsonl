@@ -1,0 +1,21 @@
+{"page": "index", "vp": "d1280", "gate": {"vw": 1265, "bad": ["g. w457 x866..1324", "path. w114 x1209..1324"], "ovf": [], "map": "none", "hs": 2453, "bodysw": 1265}, "kb": 179, "dims": [1265, 2453]}
+{"page": "menu", "vp": "d1280", "gate": {"vw": 1265, "bad": [], "ovf": [], "map": "none", "hs": 2180, "bodysw": 1265}, "kb": 143, "dims": [1265, 2180]}
+{"page": "brunch-in-savoy", "vp": "d1280", "gate": {"vw": 1265, "bad": [], "ovf": [], "map": "none", "hs": 1485, "bodysw": 1265}, "kb": 129, "dims": [1265, 1485]}
+{"page": "breakfast-champaign-urbana", "vp": "d1280", "gate": {"vw": 1265, "bad": [], "ovf": [], "map": "none", "hs": 1420, "bodysw": 1265}, "kb": 128, "dims": [1265, 1420]}
+{"page": "our-story", "vp": "d1280", "gate": {"vw": 1265, "bad": [], "ovf": [], "map": "none", "hs": 1712, "bodysw": 1265}, "kb": 148, "dims": [1265, 1712]}
+{"page": "visit", "vp": "d1280", "gate": {"vw": 1265, "bad": [], "ovf": ["DL.facts 297>284"], "map": "664x414", "hs": 1496, "bodysw": 1265}, "kb": 112, "dims": [1265, 1496]}
+{"page": "contact", "vp": "d1280", "gate": {"vw": 1265, "bad": [], "ovf": ["DL.facts 295>284"], "map": "none", "hs": 1521, "bodysw": 1265}, "kb": 77, "dims": [1265, 1521]}
+{"page": "privacy", "vp": "d1280", "gate": {"vw": 1265, "bad": [], "ovf": [], "map": "none", "hs": 1368, "bodysw": 1265}, "kb": 92, "dims": [1265, 1368]}
+{"page": "404", "vp": "d1280", "gate": {"vw": 1280, "bad": [], "ovf": [], "map": "none", "hs": 900, "bodysw": 1280}, "kb": 47, "dims": [1280, 900]}
+{"page": "thanks", "vp": "d1280", "gate": {"vw": 1280, "bad": [], "ovf": [], "map": "none", "hs": 900, "bodysw": 1280}, "kb": 54, "dims": [1280, 900]}
+{"page": "index", "vp": "m390", "gate": {"vw": 390, "bad": [], "ovf": [], "map": "none", "hs": 3453, "bodysw": 390}, "kb": 137, "dims": [390, 3453]}
+{"page": "menu", "vp": "m390", "gate": {"vw": 390, "bad": [], "ovf": [], "map": "none", "hs": 2984, "bodysw": 390}, "kb": 110, "dims": [390, 2984]}
+{"page": "brunch-in-savoy", "vp": "m390", "gate": {"vw": 390, "bad": [], "ovf": [], "map": "none", "hs": 2639, "bodysw": 390}, "kb": 115, "dims": [390, 2639]}
+{"page": "breakfast-champaign-urbana", "vp": "m390", "gate": {"vw": 390, "bad": [], "ovf": [], "map": "none", "hs": 2658, "bodysw": 390}, "kb": 113, "dims": [390, 2658]}
+{"page": "our-story", "vp": "m390", "gate": {"vw": 390, "bad": [], "ovf": [], "map": "none", "hs": 2672, "bodysw": 390}, "kb": 123, "dims": [390, 2672]}
+{"page": "visit", "vp": "m390", "gate": {"vw": 390, "bad": [], "ovf": [], "map": "341x213", "hs": 2315, "bodysw": 390}, "kb": 81, "dims": [390, 2315]}
+{"page": "contact", "vp": "m390", "gate": {"vw": 390, "bad": [], "ovf": [], "map": "none", "hs": 2270, "bodysw": 390}, "kb": 60, "dims": [390, 2270]}
+{"page": "privacy", "vp": "m390", "gate": {"vw": 390, "bad": [], "ovf": [], "map": "none", "hs": 2024, "bodysw": 390}, "kb": 77, "dims": [390, 2024]}
+{"page": "404", "vp": "m390", "gate": {"vw": 390, "bad": [], "ovf": [], "map": "none", "hs": 1336, "bodysw": 390}, "kb": 37, "dims": [390, 1336]}
+{"page": "thanks", "vp": "m390", "gate": {"vw": 390, "bad": [], "ovf": [], "map": "none", "hs": 1294, "bodysw": 390}, "kb": 40, "dims": [390, 1294]}
+SWEEP_DONE 20

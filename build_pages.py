@@ -773,9 +773,9 @@ main p+p{margin-top:1em}
 .split-side{display:flex;flex-direction:column;gap:20px;position:sticky;top:20px}
 .info-card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:22px}
 .info-card h4{font:700 12px/1.4 var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--honey-deep);margin-bottom:14px}
-dl.facts{display:grid;grid-template-columns:auto 1fr;gap:10px 16px;font-size:.95rem}
+dl.facts{display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px 16px;font-size:.95rem}
 dl.facts dt{font-weight:700;color:var(--ink2)}
-dl.facts dd{color:var(--ink)}
+dl.facts dd{color:var(--ink);min-width:0;overflow-wrap:anywhere}
 .prose p{margin-top:14px;max-width:70ch}
 .prose h3{margin-top:34px}
 
