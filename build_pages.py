@@ -110,7 +110,7 @@ FOOTER = """<footer class="site">
     </div>
     <div>
       <h4>Questions &amp; Updates</h4>
-      <p><a class="flink" href="mailto:Thehoneybistro@hotmail.com">Thehoneybistro@hotmail.com</a><br>
+      <p><a class="flink" href="mailto:Thehoneybistro@hotmail.com">Thehoneybistro<wbr />@hotmail.com</a><br>
       Ask the team at Star 57 Diner:<br><a class="flink" href="tel:+12172539444">(217) 253-9444</a></p>
     </div>
     <div>
@@ -546,7 +546,7 @@ PAGES['visit.html'] = (head("Visit — The Honey Bistro, 501 Commerce Drive, Sav
           <dt>Address</dt><dd>501 Commerce Drive<br>Savoy, IL 61874</dd>
           <dt>Opening</dt><dd>January 2027 (as early as mid-January, planned)</dd>
           <dt>Planned hours</dt><dd>Daily, 7 a.m. &ndash; 3 p.m.</dd>
-          <dt>Email</dt><dd><a href="mailto:Thehoneybistro@hotmail.com">Thehoneybistro@hotmail.com</a></dd>
+          <dt>Email</dt><dd><a href="mailto:Thehoneybistro@hotmail.com">Thehoneybistro<wbr />@hotmail.com</a></dd>
           <dt>Phone (Star 57 Diner)</dt><dd><a href="tel:+12172539444">(217) 253-9444</a></dd>
           <dt>Landmark</dt><dd>Beside El Rancho Grande II, former Kyle&apos;s Corner space</dd>
         </dl>
@@ -603,7 +603,7 @@ PAGES['contact.html'] = (head("Contact — The Honey Bistro, Savoy IL",
       <div class="info-card">
         <h4>Other ways</h4>
         <dl class="facts">
-          <dt>Email</dt><dd><a href="mailto:Thehoneybistro@hotmail.com">Thehoneybistro@hotmail.com</a></dd>
+          <dt>Email</dt><dd><a href="mailto:Thehoneybistro@hotmail.com">Thehoneybistro<wbr />@hotmail.com</a></dd>
           <dt>Phone</dt><dd><a href="tel:+12172539444">(217) 253-9444</a><br>answered at Star 57 Diner</dd>
           <dt>Facebook</dt><dd><a href="https://www.facebook.com/profile.php?id=61596882386807" rel="noopener">The Honey Bistro page</a></dd>
           <dt>Address</dt><dd>501 Commerce Drive<br>Savoy, IL 61874</dd>
@@ -639,7 +639,7 @@ PAGES['privacy.html'] = (head("Privacy Policy — The Honey Bistro",
     <p>This site is hosted on Railway (railway.app), which sees standard server logs (IP address,
     browser, page requested) as part of keeping the site online.</p>
     <h3>Your choices</h3>
-    <p>Email <a href="mailto:Thehoneybistro@hotmail.com">Thehoneybistro@hotmail.com</a> to ask what
+    <p>Email <a href="mailto:Thehoneybistro@hotmail.com">Thehoneybistro<wbr />@hotmail.com</a> to ask what
     we&apos;ve got from you, or to have your message deleted. We&apos;ll do it — no forms, no
     runaround. This policy covers this site only.</p>
   </div>
