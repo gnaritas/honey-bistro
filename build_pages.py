@@ -198,7 +198,7 @@ def page(head_html, body_html):
 PAGES = {}
 
 # ---------------- HOME ----------------
-PAGES['index.html'] = (head(f'{BRAND} — Breakfast &amp; Brunch in {CITY}, {ST} — Opening January 2027',
+PAGES['index.html'] = (head(f'{BRAND} — Breakfast & Brunch in {CITY}, {ST} — Opening January 2027',
     "A new breakfast and brunch spot on 501 Commerce Drive in Savoy, IL from the owners of Star 57 Diner. Opening January 2027. Favorites from Star 57, new exclusives, and signature honey dishes.", "index.html")
     + """<section class="hero">
   <svg class="hexfield" viewBox="0 0 420 480" aria-hidden="true" focusable="false">
