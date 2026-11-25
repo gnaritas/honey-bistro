@@ -79,8 +79,15 @@ async def main():
                 await asyncio.sleep(grace)
                 ev = await send("Runtime.evaluate", {"expression": GATE, "returnByValue": True})
                 gate = json.loads(ev["result"]["value"])
+                # explicit clip at layout content width — captureBeyondViewport without clip relayouts
+                # scrollbar-free (content +15px) but still clips at vw: fake "flush right edge" artifact
+                cap_h = max(int(gate["hs"]), 850)
+                # captureBeyondViewport relayouts scrollbar-free (1280) regardless of clip;
+                # clip at THAT layout width so the desktop right edge is truth, not a 15px crop.
+                cap_w = 1280 if not mobile else int(gate["vw"])
                 shot = await send("Page.captureScreenshot",
-                                  {"format": "jpeg", "quality": 62, "captureBeyondViewport": True})
+                                  {"format": "jpeg", "quality": 78, "captureBeyondViewport": True,
+                                   "clip": {"x": 0, "y": 0, "width": cap_w, "height": cap_h, "scale": 1}})
                 data = base64.b64decode(shot["data"])
                 vp = "d1280" if not mobile else "m390"
                 path = os.path.join(OUT, f"{PAGES.index(pg):02d}-{pg}-{vp}.jpg")
